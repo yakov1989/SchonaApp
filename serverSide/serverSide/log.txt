@@ -1,0 +1,19 @@
+Incorrect syntax near '*'.
+
+Incorrect syntax near '*'.
+
+Incorrect syntax near '*'.
+
+Incorrect syntax near '*'.
+________________
+Incorrect syntax near '*'.
+
+Incorrect syntax near '*'.
+
+Incorrect syntax near '*'.
+
+Incorrect syntax near '*'.
+
+אירעה שגיאה הקשורה לרשת או שגיאה ספציפית למופע במהלך יצירת חיבור ל- SQL Server. השרת לא נמצא או שאינו נגיש. ודא ששם המופע נכון וש- SQL Server מוגדר לאפשר חיבורים מרחוק. (provider: Shared Memory Provider, error: 40 - לא הייתה אפשרות לפתוח חיבור ל- SQL Server)
+________________
+
